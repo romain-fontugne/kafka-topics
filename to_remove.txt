@@ -12,6 +12,7 @@ comp_daily_ihr_bgp_traceroutev4_topology_updates
 comp_daily_ihr_hegemony_traceroutev4_topology
 default_atlas_discolog
 default_disco_burst
+ihr_apnic_aspop
 ihr_ark_v4_prefix_probing
 ihr_ark_v4_probe_data
 ihr_atlas_delay_alarms
